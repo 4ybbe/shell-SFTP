@@ -9,9 +9,6 @@
     - ./criarUser.sh
 
 ## Demonstração:
-![Screenshot](demo/filezillaInfo.png)
-![Filezilla]
-(/demo/filezillaInfo.png "Filezilla")
-(/demo/filezillaLog.png "Filezilla")
-![Cmd]
-(/demo/cmd.png "Cmd")
+![Filezilla](demo/filezillaInfo.png)
+![Filezilla](demo/filezillaLog.png)
+![CMD](demo/cmd.png)
