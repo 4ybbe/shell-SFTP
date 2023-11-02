@@ -9,6 +9,7 @@
     - ./criarUser.sh
 
 ## Demonstração:
+![Screenshot](demo/filezillaInfo.png)
 ![Filezilla]
 (/demo/filezillaInfo.png "Filezilla")
 (/demo/filezillaLog.png "Filezilla")
